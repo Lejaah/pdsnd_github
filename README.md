@@ -9,6 +9,10 @@ Bikeshare Data
 ### Description
 Using Python to calculate statstics and build an interactive enviroment of the Bikeshare data
 
+### Sofware
+* [Git](https://git-scm.com/downloads)
+* [Atom](https://atom.io/)
+
 ### Files used
 * chicago.csv
 * new_york_city.csv
